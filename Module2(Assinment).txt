@@ -1,0 +1,44 @@
+Module2
+
+1.Description:
+
+  This modules gives me a lot of knowledge about Machine learning with it's different types.
+  How Supervised and Unsupervised learning can use in real life application.Different types of
+  models like Regression and Classification problems with its implementation brush up the knowledge of Machine Learning.
+
+2.Linear Regression:
+
+  Linear Regression Algorithm is a machine learning algorithm based on supervised learning. We have covered supervised 
+  learning in our previous articles. Here we are going to focus on Linear regression. Linear regression is a part of
+  regression analysis. Regression analysis is a technique of predictive modelling that helps you to find out the 
+  relationship between Input and the target variable.
+  
+  Use Cases of Linear Regression:
+  1.Prediction of trends and Sales targets – To predict how industry is performing or how many sales targets industry may achieve in the future. 
+  2.Price Prediction – Using regression to predict the change in price of stock or product. 
+  3.Risk Management- Using regression to the analysis of Risk Management in the financial and insurance sector.
+
+3.
+ 
+  1.supervised learning techniques, the goal is to develop a group of decision rules that can be used to determine
+    a known outcome. These also can be called rule induction models, and they include classification and regression
+    models.
+  2.Unsupervised learning is a type of machine learning algorithm used to draw inferences from datasets consisting 
+   of input data without labeled responses. The most common unsupervised learning method is cluster analysis, which 
+   is used for exploratory data analysis to find hidden patterns or grouping in data.
+ 
+  3.A regression problem is when the output variable is a real or continuous value, such as “salary” or “weight”.
+   Many different models can be used, the simplest is the linear regression. It tries to fit data with the best
+    hyper-plane which goes through the points.
+  
+  4.In machine learning, classification refers to a predictive modeling problem where a class label is predicted for
+    a given example of input data. Examples of classification problems include: Given an example, classify if it is 
+    spam or not.
+
+   5.Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed
+    data. A linear regression line has an equation of the form Y = a + bX, where X is the explanatory variable and Y
+    is the dependent variable.
+
+    Name: Dinesh Kumar Sirvi
+    conatct:7231091614
+    Email:dineshsirviabc123@gmail.com
